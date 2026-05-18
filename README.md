@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<iframe src='https://youtu.be/a9m08R0jSDA' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://youtu.be/a9m08R0jSDA
 
 <!-- Replace this with whatever GIF tool you used! -->
 Video created with Windows Screen Recorder and uploaded to Youtube
